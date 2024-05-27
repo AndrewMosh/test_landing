@@ -1,0 +1,17 @@
+{
+    "name": "gulp-project",
+    "version": "1.0.0",
+    "description": "Пример проекта с использованием Gulp для сборки HTML, CSS и JavaScript файлов",
+    "main": "gulpfile.js",
+    "scripts": {
+        "start": "gulp"
+    },
+    "author": "Ваше имя",
+    "license": "MIT",
+    "dependencies": {
+        "browser-sync": "^3.0.2",
+        "gulp": "^5.0.0",
+        "gulp-minify-css": "^1.2.4",
+        "gulp-uglify": "^3.0.2"
+    }
+}
