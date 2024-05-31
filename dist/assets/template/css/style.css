@@ -1827,6 +1827,7 @@ a {
   background: -o-linear-gradient(271.43deg, rgb(28, 27, 31) 41.859%, rgba(28, 27, 31, 0.86) 79.638%);
   background: linear-gradient(178.57deg, rgb(28, 27, 31) 41.859%, rgba(28, 27, 31, 0.86) 79.638%);
   overflow: hidden;
+  padding-bottom: 160px;
 }
 .main__logo {
   display: -webkit-box;
@@ -2007,4 +2008,81 @@ a {
   width: 523px;
   height: 500px;
   position: absolute;
+}
+
+.services {
+  background-color: #191919;
+  color: #fff;
+  border-radius: 64px;
+  margin-top: -80px;
+  z-index: 3;
+  position: relative;
+}
+.services__video-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-bottom: 40px;
+}
+.services__text {
+  max-width: 750px;
+  font-size: 44px;
+  line-height: 110%;
+}
+.services__all-services {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  gap: 32px;
+}
+.services__item {
+  max-height: 213px;
+  -ms-flex-preferred-size: calc(50% - 17.5px);
+      flex-basis: calc(50% - 17.5px);
+  max-width: calc(50% - 17.5px);
+  border-radius: 24px;
+  background: rgba(19, 19, 21, 0.5);
+  padding: 32px;
+  cursor: pointer;
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s;
+}
+.services__item:hover {
+  -webkit-box-shadow: 0px 4px 120px 0px rgba(114, 88, 220, 0.5);
+          box-shadow: 0px 4px 120px 0px rgba(114, 88, 220, 0.5);
+  -webkit-backdrop-filter: blur(40px);
+          backdrop-filter: blur(40px);
+  background: rgb(94, 71, 187);
+}
+.services__subtitle {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-bottom: 12px;
+}
+.services__subtext {
+  font-size: 28px;
+  line-height: 34px;
+  max-width: 390px;
+}
+.services__subpic {
+  width: 52px;
+  height: 52px;
+  border-radius: 12px;
+  background-color: rgb(114, 88, 220);
+  -webkit-transition: 0.25s;
+  -o-transition: 0.25s;
+  transition: 0.25s;
 }

@@ -1,0 +1,36 @@
+<svg width="44.000000" height="44.000000" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_21_6346_dd" x="15.941406" y="15.207031" width="16.525391" height="14.320312" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="0.958247" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_21_6349_dd" x="9.679688" y="12.374512" width="18.027344" height="19.250977" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="2.55533"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip886_636">
+			<rect id="Frame 27" rx="8.000000" width="44.000000" height="44.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="9.949272" y1="12.567284" x2="25.061222" y2="31.918329" id="paint_linear_21_6349_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFFFFF" stop-opacity="0.400000"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<rect id="Frame 27" rx="8.000000" width="44.000000" height="44.000000" fill="transparent" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip886_636)">
+		<g filter="url(#filter_21_6346_dd)">
+			<path id="Fill 4" d="M29.05 18.25C28.72 18.04 28.31 18.02 27.96 18.2L18.81 22.44L27.96 26.52C28.12 26.61 28.29 26.65 28.46 26.65C28.67 26.65 28.87 26.59 29.05 26.47C29.39 26.26 29.59 25.89 29.59 25.48L29.59 19.24C29.59 18.84 29.39 18.47 29.05 18.25Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+		<path id="Fill 1" d="M33.17 15.66C32.65 15.32 32.02 15.29 31.48 15.58L17.34 22.23L31.48 28.66C31.72 28.79 31.99 28.85 32.25 28.85C32.57 28.85 32.89 28.76 33.17 28.58C33.69 28.24 34 27.66 34 27.02L34 17.22C34 16.58 33.69 16 33.17 15.66Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<g filter="url(#filter_21_6349_dd)">
+			<path id="Fill 3" d="M22.28 31.3L15.1 31.3C12.09 31.3 10 29.23 10 26.26L10 17.73C10 14.76 12.09 12.69 15.1 12.69L22.28 12.69C25.29 12.69 27.38 14.76 27.38 17.73L27.38 26.26C27.38 29.23 25.29 31.3 22.28 31.3Z" fill="#FFFFFF" fill-opacity="0.350000" fill-rule="nonzero"/>
+			<path id="Fill 3" d="M12.92 31.23Q13.92 31.62 15.1 31.62L22.28 31.62Q23.45 31.62 24.46 31.23Q25.15 30.96 25.72 30.52Q25.96 30.34 26.18 30.12Q26.44 29.87 26.66 29.58Q27.05 29.05 27.31 28.42Q27.7 27.42 27.7 26.26L27.7 17.73Q27.7 16.57 27.31 15.57Q27.05 14.94 26.66 14.41Q26.44 14.12 26.18 13.87Q25.96 13.65 25.72 13.47Q25.16 13.03 24.46 12.76Q23.45 12.37 22.28 12.37L15.1 12.37Q13.92 12.37 12.92 12.76Q12.22 13.03 11.66 13.47Q11.41 13.65 11.19 13.87Q10.94 14.12 10.72 14.41Q10.33 14.94 10.07 15.57Q9.67 16.57 9.67 17.73L9.67 26.26Q9.67 27.42 10.07 28.42Q10.33 29.05 10.72 29.58Q10.94 29.87 11.19 30.12Q11.41 30.34 11.66 30.52Q12.22 30.96 12.92 31.23ZM15.1 31.3L22.28 31.3C25.29 31.3 27.38 29.23 27.38 26.26L27.38 17.73C27.38 14.76 25.29 12.69 22.28 12.69L15.1 12.69C12.09 12.69 10 14.76 10 17.73L10 26.26C10 29.23 12.09 31.3 15.1 31.3Z" fill="url(#paint_linear_21_6349_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+	</g>
+</svg>
